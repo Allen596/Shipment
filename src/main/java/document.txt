@@ -1,0 +1,13 @@
+Working Solution
+1. Reading needs for analysis
+2. Coding
+3. Test
+
+Requirement Analysis
+1. The input cannot be letters or decimals
+2. The number of roots must be greater than 0
+3. The output cannot be a decimal
+
+
+Test Coverage
+Letters, positive numbers, negative numbers, decimal points
